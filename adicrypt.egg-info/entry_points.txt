@@ -1,0 +1,3 @@
+[console_scripts]
+adicrypt = main:cli
+
