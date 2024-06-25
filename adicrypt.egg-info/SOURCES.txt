@@ -1,7 +1,0 @@
-setup.py
-adicrypt.egg-info/PKG-INFO
-adicrypt.egg-info/SOURCES.txt
-adicrypt.egg-info/dependency_links.txt
-adicrypt.egg-info/entry_points.txt
-adicrypt.egg-info/requires.txt
-adicrypt.egg-info/top_level.txt
